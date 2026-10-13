@@ -1,9 +1,7 @@
 fastapi
-uvicorn[standard]
-pydantic
+uvicorn
 pillow
-anyio
-google-genai
-tensorflow-cpu
 numpy<2.0.0
+tensorflow-cpu
+google-genai
 python-multipart
