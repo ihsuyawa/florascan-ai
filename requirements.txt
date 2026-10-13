@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pydantic
+pillow
+anyio
+google-genai
+tensorflow-cpu
+numpy<2.0.0
+python-multipart
